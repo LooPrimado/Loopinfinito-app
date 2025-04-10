@@ -1,3 +1,3 @@
-# Loop Infinito App
+# Portal Vibracional - Loop Infinito
 
-Portal vibracional y de gestión del Loop Infinito.
+App creada para el manejo de energía y expansión de conciencia.
